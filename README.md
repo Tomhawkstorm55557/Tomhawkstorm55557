@@ -1,3 +1,9 @@
+# <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on ml and dl<br>🤝 I’m looking for help with NLP<br>🌱 I’m currently learning MACHINE LEARNING<br>💬 Ask me about PRAOGRAMING<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40Indian-Cyber-Troops~%23+whoami;%E2%9C%93+Indian+Hacker;%E2%9C%93+Web+Pentester;%E2%9C%93+Indian+Cyber+Space+Troops+;%E2%9C%93+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
@@ -9,7 +15,11 @@ LOVE TO CREATE CYBER SECURITY TOOLS!!!!!!
 ![](https://github-readme-stats.vercel.app/api?username=Tomhawkstorm55557	&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tomhawkstorm55557	&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomhawkstorm55557	&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<!--🖼️ILOVEOPENSOURCE-->
+<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
