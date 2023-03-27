@@ -86,7 +86,15 @@ LOVE TO CREATE CYBER SECURITY TOOLS!!!!!!
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tomhawkstorm55557&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tomhawkstorm55557&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomhawkstorm55557&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Tomhawkstorm55557&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
@@ -111,9 +119,7 @@ LOVE TO CREATE CYBER SECURITY TOOLS!!!!!!
 <p align="center">
 <img src="https://camo.githubusercontent.com/fc7ab63c0d13a62ee92c9262c367cdf87b13b50f5781eb5854daf78d1d150c49/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f26626f726465725f636f6c6f723d6339666630302673686f775f69636f6e733d74727565">
 
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/Tomhawkstorm55557
-/github-readme-streak-stats -->
-<img src="https://camo.githubusercontent.com/badb9b8e33b5dd64ba966714daf05dc0018b7a8ceb6e6d0bd26cb996743e15c7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d7472696e69622e76657263656c2e6170702f3f757365723d7472696e6962267468656d653d6d65726b6f26626f726465723d63396666303026666972653d666635353030">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
